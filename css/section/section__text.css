@@ -1,0 +1,13 @@
+.section__text_header {
+    margin-top: 2.5px;
+    margin-left: -1.75px;
+}
+
+.section__text {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.25;
+    letter-spacing: 1.12px;
+    color: #676364;
+}

@@ -1,0 +1,13 @@
+.section__title_header {
+    margin-bottom: 9px;
+    margin-left: 4px;
+}
+
+.section__title {
+    text-transform: uppercase;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2.05px;
+    font-size: 32px;
+    color: #373435;
+}

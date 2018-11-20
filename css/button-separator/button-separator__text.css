@@ -1,0 +1,8 @@
+.button-separator__text {
+    text-transform: uppercase;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+    color: #ebebeb;
+}

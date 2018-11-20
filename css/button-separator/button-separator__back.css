@@ -1,0 +1,12 @@
+.button-separator__back_header {
+    position: absolute;
+    right: 26.4%;
+    /*bottom: 47.5px;*/
+    bottom: -2px;
+}
+
+.button-separator__back {
+    background-color: #e5e5e5;
+    padding-left: 12px;
+    padding-right: 13px;
+}

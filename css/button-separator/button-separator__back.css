@@ -1,8 +1,13 @@
 .button-separator__back_header {
-    position: absolute;
+    position: relative;
+    right: 53%;
+    top: 25px;
+
+    /*position: absolute;
     right: 26.4%;
-    /*bottom: 47.5px;*/
+    
     bottom: -2px;
+    /*bottom: 47.5px;*/
 }
 
 .button-separator__back {

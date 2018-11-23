@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('./../fonts/icomoon.eot?ej7mss');
-  src:  url('./../fonts/icomoon.eot?ej7mss#iefix') format('embedded-opentype'),
-    url('./../fonts/icomoon.ttf?ej7mss') format('truetype'),
-    url('./../fonts/icomoon.woff?ej7mss') format('woff'),
-    url('./../fonts/icomoon.svg?ej7mss#icomoon') format('svg');
+  src:  url('./../fonts/icomoon.eot?wuawr2');
+  src:  url('./../fonts/icomoon.eot?wuawr2#iefix') format('embedded-opentype'),
+    url('./../fonts/icomoon.ttf?wuawr2') format('truetype'),
+    url('./../fonts/icomoon.woff?wuawr2') format('woff'),
+    url('./../fonts/icomoon.svg?wuawr2#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -12,12 +12,10 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  font-size: 26px;
   line-height: 1;
 
   /* Better Font Rendering =========== */
@@ -25,6 +23,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-chevron-right:before {
+  content: "\f054";
+}
 .icon-wrench:before {
   content: "\f0ad";
 }

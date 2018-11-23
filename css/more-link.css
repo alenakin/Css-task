@@ -1,8 +1,14 @@
-.block__title {
+.more-info__icon {
+    font-size: 11px;
+    color: #ed3237;
+}
+
+.more-info__text {
     text-transform: uppercase;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: 900;
     letter-spacing: 1.4px;
     color: #373435;
+    line-height: 1.3;
 }

@@ -1,0 +1,59 @@
+.logo-container {
+    position: relative;
+    bottom: 46px;
+    left: 1px;
+}
+
+.logo {
+    display: inline-block;
+    background-color: #e5e5e5;
+    padding: 29px 31px 30px 30px;
+    border-radius: 5px;
+    box-shadow: -9px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo__text {
+    text-transform: uppercase;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 900;
+    letter-spacing: 2.4px;
+    font-size: 40px;
+    color: #373435;
+    margin-right: -4px;
+}
+
+.menu {
+    position: relative;
+    margin-top: -3px;
+}
+
+.menu__button-container {
+    margin-right: 37.5px;
+}
+
+.menu__button-container:last-child {
+    margin-right: 0px;
+}
+
+.menu__button {
+    display: inline-block;
+    padding: 9px 0px 12px;
+    background-color: #e5e5e5;
+    border: 0;
+    border-top: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    cursor: pointer;
+}
+
+.menu__button:hover {
+    color: #ed3237;
+}
+
+.menu__button-text {
+    text-transform: uppercase;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 1.05px;
+    color: #909090;
+}

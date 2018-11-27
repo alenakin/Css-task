@@ -1,6 +1,5 @@
 .view-more-section {
     display: table;
-    margin-top: 49px;
 }
     
 .view-more-section:before, .view-more-section:after {
@@ -32,11 +31,21 @@
     text-transform: uppercase;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: 700;
     letter-spacing: 1.4px;
     color: #ebebeb;
 }
 
 .horizontal-line {
     border-top: 1px solid #c2c2c2;
+    padding-bottom: 7px;
+}
+
+.view-more-container1 {
+    margin-top: 49px;
+}
+
+.view-more-container2 {
+    margin-top: 26px;
+    margin-bottom: 38px;
 }

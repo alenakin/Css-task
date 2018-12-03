@@ -1,0 +1,22 @@
+.background {
+    background-image: url("../images/background.jpg");
+}
+
+.background__page-container {
+    margin-top: 97px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 12px;
+}
+
+.background__page {
+    background-color: #ebebeb;
+    width: 1169px;
+    min-height: 300px;
+    border-radius: 5px;
+    padding-bottom: 30px;
+    padding-left: 26px;
+    padding-right: 35px;
+    text-align: center;
+}

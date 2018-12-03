@@ -1,0 +1,15 @@
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 55px;
+    position: relative;
+    left: 7px;
+}
+
+.footer__text {
+    color: #ebebeb;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 0.65;
+}
